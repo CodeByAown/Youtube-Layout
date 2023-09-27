@@ -1,0 +1,235 @@
+body {
+    background-color: #fff;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+h5 {
+    display: inline-block;
+}
+
+.toggler {
+    font-size: 20px;
+}
+
+.youtube {
+    width: 37px;
+    height: 37px;
+}
+
+.small {
+    font-size: 11px;
+    display: inline-block;
+}
+
+.heading1 {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.heading1 {
+    position: relative;
+}
+
+.small {
+    position: absolute;
+    top: 9px;
+    right: 12.8rem;
+}
+
+.input-1 {
+    border-radius: 50px;
+
+}
+
+.search-icon {
+    cursor: pointer;
+}
+
+.icon-2 {
+    font-size: 17px;
+}
+
+.width {
+    width: 70%;
+    /* justify-content: space-between; */
+}
+
+.microphone {
+    cursor: pointer;
+    background-color: #E9ECEF;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: right;
+    position: relative;
+    top: -37px;
+    left: -60px;
+
+}
+
+.icon-3 {
+    margin-top: 11px;
+    margin-left: 14px;
+
+}
+
+.aown-logo {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
+
+.camera-icon {
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.bell-icon {
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.aown-logo {
+    cursor: pointer;
+}
+
+.section-2 {
+    /* background-image: url(aown.jpeg);
+    background-size: cover; */
+    background-color: black;
+    color: white;
+    height: 75vh;
+    width: 500px;
+    display: flex;
+    align-items: end;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.h-line {
+    font-weight: bolder;
+    /* margin-bottom: 18px; */
+    /* height: 40px; */
+}
+
+.icons-bar {
+    margin-bottom: 9px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.same {
+    font-size: 21px;
+}
+
+.length {
+    font-size: small;
+}
+
+
+/* .right-icons {
+    width: 300px;
+} */
+
+/* .pause-5icon{
+    margin-right: 150px;
+} */
+/* .card-icon{
+    margin-right: 200px;
+} */
+
+
+.substitute{
+    margin-top: 42px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+
+.cards-section {
+    margin-bottom: 17px;
+    color: #fff;
+    background-color: black;
+    height: 17vh;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.card-2 {
+
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+
+.same,
+.bi-fullscreen,
+.rectangle {
+    cursor: pointer;
+}
+
+.shop {
+    margin-top: 53px;
+}
+
+.button-rhtt {
+    border-radius: 8px;
+    border: none;
+    background-color: #0F0F0F;
+    width: 42px;
+}
+
+.button-rht {
+    border: none;
+    background-color: #F2F2F2;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.simple-card{
+    border: none;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card-imgg{
+    width: 170px;
+    height: 110px;
+
+}
+.border-radius{
+    border-radius: 6px;
+}
+/* 
+.card-container {
+
+
+}
+
+
+.nomargin{
+    margin-bottom: 0%;
+} */
+
+.video-card{
+    
+}
+.video-title{
+    font-weight: 500;
+}
+
+
+.check-img{
+    width: 14px;
+    height: 14px;
+}
